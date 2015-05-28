@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 
+# Binary Data Files
+*.nc
+*.cdf
+
 # C extensions
 *.so
 
